@@ -71,6 +71,12 @@ figcaption {
   color: red;
 }
 
+/*///// MEDIA /////*/
+
+img, audio, video {
+  min-width: 100%;
+}
+
 /*///// LAYOUT /////*/
 
 .wrapper {
